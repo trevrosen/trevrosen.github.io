@@ -1,0 +1,82 @@
+==================================================================
+https://keybase.io/trevrosen
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://catapult-creative.com
+  * I am trevrosen (https://keybase.io/trevrosen) on keybase.
+  * I have a public key with fingerprint 17F7 7DE6 AF9C A777 FA53  8281 5605 4B6F F40D E0F9
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "client": {
+            "name": "keybase.io node.js client",
+            "version": "0.7.8"
+        },
+        "key": {
+            "fingerprint": "17f77de6af9ca777fa53828156054b6ff40de0f9",
+            "host": "keybase.io",
+            "key_id": "56054B6FF40DE0F9",
+            "uid": "f6b1cbf3a14ca51bc72bd9eea1522119",
+            "username": "trevrosen"
+        },
+        "merkle_root": {
+            "ctime": 1430248403,
+            "hash": "b3898a86504822cd9c78ae40060a18bc44ec6334b2994a9f0888bfa7280132539133f0942e7816160d1922c43122f2e534029e2d1dfa22c40cd5c5ac1f7625f3",
+            "seqno": 212160
+        },
+        "service": {
+            "hostname": "catapult-creative.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1430248496,
+    "expire_in": 157680000,
+    "prev": "19cbd40f9ac40ff9873c0760d6d28bc548b0a42b0c0aab480fa2d1a7e5ee33bc",
+    "seqno": 3,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Comment: GPGTools - https://gpgtools.org
+
+owFdkmtsFFUYhncpLaErtFJACILLVAOFsp65z7SCpcIaWmroxYJpl+XMmTPbYdud
+7ex06VI2KK0WFqIF/CEVEBFpFIpKgErQECh3SkshXERAbkK5RgikgJA409R4Ob/m
+nHm+93zv956GAXG2RHtxfK72cMClJ/ajNyXbu2+eBzWEpMkRIqOGQOUqDhjWVwBW
+YCKD8OOIBEPYpWrOgCZj19yQs5dJJ8JYD6lawKSAi3cJRDTdwq1iRQ34sB7UVUuL
+IHmF52XMQUVEkOd5BbK0QAkkywGWkThFYYCMgSKakmVayPjPrUSPpleVzdMePptz
+uxkwZSpwW3xVzw+Fk0gkKTQkGQRZUkI8JckixpBkKYoke8AQ1nstGToO61oIB6yG
+K7DuL8deXdN6XCNDtRiSoQHFCAygzZZgqMyskmhBFKDAsYARKArJIuIFiBkAOABJ
+QUIMgxFH04xEiSIDRQUIgiApkKcEQNIUS4skTStAZCjMCyRHckAmRVOHoUmKUijM
+0gygREzJpKxA6xwgmUUsRKTCcxSr0KaHEK4MaEQGRVJmedTa62EVYatva2699hA0
+YLCq3JiAdAwNNYxdSKswq4O6ZmhIKzeRMsMIZljujZZI0KqZhyVvr5pXUgOyGd+/
+8yVN9H+TEbl0AlcHVR17VYtgeU4A5rLuwWErdBFJMmOmCk0viiIKPI0Ab9rmZMoc
+F8sIEoAMJQEEIJQYAZi2ZRLymMWYpiX0j18zAwP6TMmQ6gtAo0rHRHRJn5f72uyJ
+toT4PtYDtiX2T/77VY9JT7at9c3a5ElwXJEGHfP4DvxyKeH4gILty9acTVretWfr
+5sbBmcMO/eR3TqheUde3PdrkO1OU6u1cvH52n9j3SeuiHTlX1RpH93PxzsEPR8ez
+P9u27Hh+a+WezG31y4ub588d+3n8g1Oj0251JbT9uGlMJHhy2s6PwwftJw4fbivZ
+P2r4gSJvbGBXYeuyyvtHPI1XzhU/yr0z6eRH8x62DtrwnthQeHj7gYIhz9/+NMcT
+fTzDt7Utpb10cyRnYiyu/fVVaZM+y1XDtXnepr0X8vJPTZx+9sWOkpR+4Rm5S5tL
+3alDhutexxbHjvsX7pU0VM7JfBC3cMi1XSPOVGd9JYZsaUs3vlQ5YsLKseGvT5/j
+1PJDcYnwh+nvfDtzSl+/f0T2rVmxxbYv5+SVTZM159Dc6nXOoiYWuFajV4cduZf6
+ONZytOJyHZbvBYZ6Wnx1Lyxx2+zMvj3h47+2f1J3861n+y6Xbuuf0O8q4lPDJzpa
+J5U62ita6U7eVbhxdknr5Onp2u0VD6/vunv6uyfJ68/PdH8xrtN5MiXGZd34rXlB
+3PX939Q+7fDkd09ry/vgyvZG9WzN5GOr/PUNf74//uLO+oG7N9ir1jSuPbdy66Pb
+xUWhAueuwrUti97Y64hMzJ9PVssjkzO6kxaOGvlg8vi9gy/W3nwtK5uuyn5l3F3p
+6e4/Kq/O6VxUO2U1bnJNXXCD63r2+7W/AA==
+=AVKs
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/trevrosen
+
+==================================================================
